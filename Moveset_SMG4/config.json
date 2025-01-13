@@ -55,9 +55,6 @@
         "fighter/smg4/model/body/c06/def_mario_001_col.nutexb",
         "fighter/smg4/model/body/c06/def_mario_001_nor.nutexb",
         "fighter/smg4/model/body/c06/def_mario_001_prm.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb"
           ],
       "fighter/smg4/c07": [
         "fighter/smg4/model/body/c07/def_mario_b_001_col.nutexb",
@@ -66,9 +63,6 @@
         "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
         "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
         "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
-        "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb"
           ]
       }
   }
