@@ -1,0 +1,74 @@
+{
+    "new_dir_files": {
+      "fighter/smg4/c00": [
+        "fighter/smg4/model/body/c00/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c00/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c00/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c00/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c00/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c00/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c01": [
+        "fighter/smg4/model/body/c01/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c01/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c01/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c01/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c01/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c01/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c02": [
+        "fighter/smg4/model/body/c02/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c02/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c02/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c02/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c02/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c02/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c03": [
+        "fighter/smg4/model/body/c03/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c03/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c03/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c03/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c03/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c03/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c04": [
+        "fighter/smg4/model/body/c04/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c04/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c04/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c04/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c04/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c04/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c05": [
+        "fighter/smg4/model/body/c05/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c05/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c05/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c05/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c05/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c05/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c06": [
+        "fighter/smg4/model/body/c06/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c06/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c06/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c06/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c06/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c06/def_mario_001_prm.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb"
+          ],
+      "fighter/smg4/c07": [
+        "fighter/smg4/model/body/c07/def_mario_b_001_col.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_b_001_nor.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_b_001_prm.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_col.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_nor.nutexb",
+        "fighter/smg4/model/body/c07/def_mario_001_prm.nutexb"
+          ]
+      }
+  }
