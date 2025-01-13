@@ -20,9 +20,8 @@ Ce mod ajoute un moveset unique pour **SMG4**, un personnage inspiré de la sér
 
 ## **Installation**  
 1. Téléchargez les fichiers du mod depuis ce dépôt.  
-2. Placez les fichiers dans le dossier correspondant de votre mod Smash Bros. (ex. : `fighter` ou `param`).  
-3. Ajoutez les modifications XML fournies dans vos fichiers de configuration de texte.  
-4. Lancez le jeu et testez le moveset SMG4 !
+2. Placez les fichiers dans le dossier correspondant de votre mod Smash Bros. (ex. : `fighter` ou `param`).   
+3. Lancez le jeu et testez le moveset SMG4 !
 
 ---
 
