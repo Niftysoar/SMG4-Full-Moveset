@@ -1,0 +1,182 @@
+kind = "mariod"
+slots = [120, 121, 122, 123, 124, 125, 126, 127]
+
+[[param_float]]
+param = "walk_accel_mul"
+subparam = ""
+value = 0.09
+
+[[param_float]]
+param = "walk_accel_add"
+subparam = ""
+value = 0.09
+
+[[param_float]]
+param = "walk_accel_max"
+subparam = ""
+value = 1.05
+
+[[param_float]]
+param = "walk_slow_speed_mul"
+subparam = ""
+value = 0.2
+
+[[param_float]]
+param = "walk_middle_ratio"
+subparam = ""
+value = 0.38
+
+[[param_float]]
+param = "walk_fast_ratio"
+subparam = ""
+value = 0.75
+
+[[param_float]]
+param = "ground_brake"
+subparam = ""
+value = 0.138
+
+[[param_float]]
+param = "run_accel_mul"
+subparam = ""
+value = 0.16
+
+[[param_float]]
+param = "run_accel_add"
+subparam = ""
+value = 0.05
+
+[[param_float]]
+param = "run_speed_max"
+subparam = ""
+value = 1.7
+
+[[param_float]]
+param = "dash_speed"
+subparam = ""
+value = 1.9
+
+[[param_float]]
+param = "jump_inital_y"
+subparam = ""
+value = 19.5
+
+[[param_float]]
+param = "jump_y"
+subparam = ""
+value = 30.0
+
+[[param_float]]
+param = "mini_jump_y"
+subparam = ""
+value = 16.5
+
+[[param_float]]
+param = "jump_aerial_y"
+subparam = ""
+value = 34.0
+
+[[param_float]]
+param = "jump_speed_x"
+subparam = ""
+value = 0.85
+
+[[param_float]]
+param = "jump_speed_x_mul"
+subparam = ""
+value = 0.75
+
+[[param_float]]
+param = "jump_speed_x_max"
+subparam = ""
+value = 1.2
+
+[[param_float]]
+param = "jump_aerial_speed_x_max"
+subparam = ""
+value = 0.85
+
+[[param_float]]
+param = "air_accel_x_mul"
+subparam = ""
+value = 0.06
+
+[[param_float]]
+param = "air_accel_x_add"
+subparam = ""
+value = 0.008
+
+[[param_float]]
+param = "air_accel_x_stable"
+subparam = ""
+value = 1.1
+
+[[param_float]]
+param = "air_brake_x"
+subparam = ""
+value = 0.013
+
+[[param_float]]
+param = "air_accel_y"
+subparam = ""
+value = 0.087
+
+[[param_float]]
+param = "air_accel_y_stable"
+subparam = ""
+value = 1.5
+
+[[param_float]]
+param = "damage_fly_top_air_accel_y"
+subparam = ""
+value = 0.074928
+
+[[param_float]]
+param = "damage_fly_top_air_accel_y_stable"
+subparam = ""
+value = 1.8
+
+[[param_float]]
+param = "air_break_y"
+subparam = ""
+value = 0.015
+
+[[param_float]]
+param = "dive_speed_y"
+subparam = ""
+value = 2.4
+
+[[param_float]]
+param = "jump_count_max"
+subparam = ""
+value = 2
+
+[[param_float]]
+param = "scale"
+subparam = ""
+value = 1
+
+[[param_float]]
+param = "weight"
+subparam = ""
+value = 104
+
+[[param_float]]
+param = "height"
+subparam = ""
+value = 14
+
+[[param_float]]
+param = "expand_height"
+subparam = ""
+value = 18
+
+[[param_float]]
+param = "shield_radius"
+subparam = ""
+value = 9.7
+
+[[param_float]]
+param = "shield_break_y"
+subparam = ""
+value = 44.1
